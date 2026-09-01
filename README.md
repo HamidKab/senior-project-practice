@@ -1,3 +1,15 @@
+# Student Developer Profile
+
+Hamid Kabia
+
+Tech interest: machine Learning
+
+Goal skill: Project hardening 
+
+Branch → Code → Commit → Push → Pull Request → Review → Merge
+
+Submission
+
 # senior-project-practice
 
 A practice repository used to get comfortable with the Git and Python workflow
